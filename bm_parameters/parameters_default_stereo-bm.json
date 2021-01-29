@@ -1,0 +1,1 @@
+{"min_disp": 10, "num_disp": 48, "block_size": 19, "prefilter_cap": 63, "prefilter_size": 255, "disp12maxdiff": 255, "uniqueness_ratio": 6, "speckle_windows_size": 1403, "speckle_range": 54, "texture_threshold": 255, "use_xsobel": true, "wls_filtering": false}
